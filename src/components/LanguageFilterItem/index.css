@@ -1,0 +1,13 @@
+/* Write your CSS here */
+/* button{
+    border-radius:10px;
+    padding:10px;
+    height:40px;
+    width:80px;
+} */
+
+.none-border {
+  border-style: hidden;
+  background-color: white;
+  margin: 15px;
+}
